@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+
+#contenedor {
+  width: 960px;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+  background-color: silver;
+  border-top: 3px solid black;
+  border-right: 3px solid black;
+  border-left: 3px solid black;
+  border-bottom: 3px solid black;
+}
+#encabezado {
+  width: 960px;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+  background-color: silver;
+  border-top: 3px solid black;
+  border-right: 3px solid black;
+  border-left: 3px solid black;
+  border-bottom: 3px solid black;
+}
+
+#texto_encabezado {
+  background-color: silver;
+  width: 800px;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  float: left;
+}
+
+#img_1 {
+  width: 155px;
+  height: 150px;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-left: 809px;
+  margin-bottom: auto;
+  border-left-width: 2px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-top-width: 1px;
+  border-top-color: #000;
+  border-right-color: #000;
+  border-left-color: #000;
+  border-bottom-color: #000;
+  border-left-style: solid;
+}
+
+h1 {
+  font-size: 40px;
+  color:#191970;
+  font-family: verdana;
+  text-align: center;
+}
+
+#piepag {
+  width: 960px;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+  background-color: silver;
+  border-top: 3px solid black;
+  border-right: 3px solid black;
+  border-left: 3px solid black;
+  border-bottom: 3px solid black;
+  text-align: center;
+}
